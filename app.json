@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Koło Fortuny",
+    "slug": "kolo-fortuny",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/appIcon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/images/splashScreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tulejkiwahacznoigumasworznia.kolofortuny"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/appIcon.png"
+      },
+      "package": "com.tulejkiwahacznoigumasworznia.kolofortuny"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "c357889a-504e-4f5d-a658-496d33310d3e"
+      }
+    }
+  }
+}
