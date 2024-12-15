@@ -22,16 +22,15 @@ To run the app locally, follow these steps:
 2. **Navigate into the project folder:**
 
    ```bash
-   cd wheel-of-fortune-app
+   cd react-native-wheel-of-fortune
 
 3. **Install dependencies:**
 
-   using npm
    ```bash
+   using npm:
    npm install
 
-   or using yarn
-   ```bash
+   or using yarn:
    yarn install
 
 4. **Start the app:**
