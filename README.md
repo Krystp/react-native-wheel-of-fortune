@@ -10,14 +10,6 @@ A Wheel of Fortune app built with Expo that allows users to create their own cus
 - **Multilingual Support**: Choose between languages (currently supports English and Polish).
 - **Interactive Design**: Smooth animations for the spinning wheel and winner selection.
 
-## Technologies Used
-
-- **Expo**
-- **D3.js**
-- **React Native Gesture Handler**
-- **Popmotion Popcorn**
-- **RandomColor**
-
 ## Installation
 
 To run the app locally, follow these steps:
